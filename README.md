@@ -2,6 +2,8 @@
 
 **CityMind** is a state-of-the-art urban simulation platform that demonstrates how Artificial Intelligence can solve complex city planning and emergency management problems. From designing layouts to routing ambulances through floods, CityMind orchestrates multiple AI algorithms to create a living, breathing, and self-optimizing city.
 
+![1778438847270](image/README/1778438847270.png)
+
 ---
 
 ## Overview
